@@ -1,1 +1,0 @@
-/Users/a13118/.bashrc
